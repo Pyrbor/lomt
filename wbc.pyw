@@ -10,11 +10,12 @@ def github():
  
 def info():
  today = date.today()
- text = ''' WEB BROWSER CENTER
- date:{0}
+ text = ''' date:{0}
+ WEB BROWSER CENTER
+ created in 10/27/2022
  
  version: 0.0 / first version
- created in 10/27/2022
+ 11/3/2022
  
  wbc it's a project made by a web browser fanatic to group 
  the larger amount of web browsers possible in one single
@@ -204,7 +205,7 @@ def avastbrowser():
 
 root = Tk()
 root.title('WBC')
-img = PhotoImage(file='D:\\Pessoal\\Documents\\wbc\\wbc.png')
+img = PhotoImage(file='DIRECTORY\\wbc.png')
 root.geometry('610x80')
 root.iconphoto(False,img)
 menubar = Menu(root)
