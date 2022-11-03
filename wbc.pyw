@@ -2,6 +2,23 @@ from tkinter import *
 import webbrowser
 from datetime import date
 
+################## WINDOW
+
+root = Tk()
+root.title('WBC')
+img = PhotoImage( fil = ('DIRECTORY\\wbc.png')
+root.geometry('610x80')
+root.iconphoto(False, img)
+menubar = Menu(root)
+credits = Label(root, text = '''
+Web Browser Center
+11/3/2022
+version 0.0 first version
+''')
+credits.pack()
+
+################## CONFIG
+
 def close():
  exit()
  
@@ -193,24 +210,6 @@ def avant():
  
 def avastbrowser():
  webbrowser.open('https://www.avast.com/secure-browser#pc')
-
-################## WINDOW
-
-root = Tk()
-root.title('WBC')
-img = PhotoImage( fil = 'DIRECTORY\\wbc.png')
-root.geometry('610x80')
-root.iconphoto(False, img)
-menubar = Menu(root)
-
-##################
-
-credits = Label(root, text = '''
-Web Browser Center
-11/3/2022
-version 0.0 first version
-''')
-credits.pack()
 
 ################## CONFIG
 
