@@ -10,12 +10,11 @@ def github():
  
 def info():
  today = date.today()
- text = ''' date:{0}
- WEB BROWSER CENTER
- created in 10/27/2022
+ text = ''' WEB BROWSER CENTER
+ date:{0}
  
  version: 0.0 / first version
- 11/3/2022
+ created in 10/27/2022
  
  wbc it's a project made by a web browser fanatic to group 
  the larger amount of web browsers possible in one single
@@ -56,9 +55,6 @@ def beaker():
 
 def ungoogledchromium():
  webbrowser.open('https://github.com/orgs/ungoogled-software/repositories')
- 
-def bonbon():
- webbrowser.open('https://bonbon.exchange/browser')
  
 def chrome():
  webbrowser.open('https://www.google.com/chrome/')
@@ -150,9 +146,6 @@ def palemoon():
 def otter():
  webbrowser.open('https://otter-browser.org/')
  
-def seamonkey():
- webbrowser.open('https://www.seamonkey-project.org/releases/')
- 
 def opera():
  webbrowser.open('https://www.opera.com/browsers/opera')
  
@@ -205,9 +198,9 @@ def avastbrowser():
 
 root = Tk()
 root.title('WBC')
-img = PhotoImage(file='DIRECTORY\\wbc.png')
+img = PhotoImage( fil = 'DIRECTORY\\wbc.png')
 root.geometry('610x80')
-root.iconphoto(False,img)
+root.iconphoto(False, img)
 menubar = Menu(root)
 
 ##################
