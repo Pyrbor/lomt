@@ -116,9 +116,32 @@ this list is random.
 
 . avast browser
 
+. ghostlie
+
+. light firefox
+
+. briskbard
+
+. chedot
+
+. chromodo
+
+. bittube
+
+. cryptotab
+
+. opera neon
+
+. ur browser
+
+. kinza
+
+. sleipnir
 
 # dates
 . created in: 10/27/2022
 
 . first version in: 10/3/2022
+
+. last updated: 11/5/2022
 
