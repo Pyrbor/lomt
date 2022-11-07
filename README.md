@@ -3,7 +3,7 @@ the web browser center project ( wbc for short ) it's a python program leaded by
 
 note that this isn't a program to choose what browser fits better with you or what browser you like the most, the objective is to group them in the smallest place possible to be very light and compact.
 
-the program is numbered by alphanumerical order.
+the browsers are numbered by alphanumerical order.
 
 when you click a browser, it will open your main web browser in the official website.
 
