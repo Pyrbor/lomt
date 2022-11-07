@@ -10,133 +10,151 @@ when you click a browser, it will open your main web browser in the official web
 # browser list
 this list is random.
 
-. baidu
+abrowser
 
-. brave
+airbrowse
 
-. brave nightly
+arora
 
-. brave beta
+avant
 
-. basilisk
+avast browser
 
-. blisk
+avg browser
 
-. beaker
+baidu
 
-. ungoogled chromium
+basilisk
 
-. chrome
+beaker
 
-. chrome dev
+bittube
 
-. chrome canary
+blisk
 
-. côc côc
+brave
 
-. cent
+brave beta
 
-. comodo dragon
+brave nightly
 
-. comodo ice dragon
+briskbard
 
-. cyberfox
+cent
 
-. dot
+chedot
 
-. eldy
- 
-. firefox
+chrome
 
-. firefox beta
+chrome canary
 
-. firefox dev
- 
-. firefox nightly
+chrome dev
 
-. falkon
+chromodo
 
-. ghost
- 
-. librewolf
+citrio
 
-. maxthon
+coc coc
 
-. maxthon beta
- 
-. maxthon nitro 
+comodo dragon
 
-. maxthon classic
+comodo ice dragon
 
-. midori
- 
-. superbrowse
+cryptotab
 
-. sidekick
+cyberfox
 
-. tor
- 
-. seamonkey
+dot
 
-. tungsten
+eldy
 
-. palemoon
- 
-. otter
+falkon
 
-. opera
+firefox
 
-. opera beta
- 
-. opera dev
+firefox beta
 
-. opera crypto
+firefox dev
 
-. opera gx
- 
-. min
+firefox nightly
 
-. pulse
+ghost
 
-. waterfox
- 
-. whale
+ghostlie
 
-. wyzo
+iridium
 
-. yandex
- 
-. vivaldi
+kingpin
 
-. citrio
+kinza
 
-. osiris
- 
-. avant
+librewolf
 
-. avast browser
+light firefox
 
-. ghostlie
+maxthon
 
-. light firefox
+maxthon beta
 
-. briskbard
+maxthon classic
 
-. chedot
+maxthon nitro 
 
-. chromodo
+midori
 
-. bittube
+min
 
-. cryptotab
+opera
 
-. opera neon
+opera beta
 
-. ur browser
+opera crypto
 
-. kinza
+opera dev
 
-. sleipnir
+opera gx
+
+opera neon
+
+osiris
+
+otter
+
+palemoon
+
+pulse
+
+qutebrowser
+
+seamonkey
+
+sidekick
+
+sleipnir
+
+slimboat
+
+slimjet
+
+superbrowse
+
+tor
+
+tungsten
+
+ungoogled chromium
+
+ur browser
+
+vivaldi
+
+waterfox
+
+whale
+
+wyzo
+
+yandex
 
 # dates
 . created in: 10/27/2022
