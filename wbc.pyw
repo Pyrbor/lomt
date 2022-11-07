@@ -13,7 +13,7 @@ menubar = Menu(root)
 credits = Label(root, text = '''
 Web Browser Center
 11/3/2022
-version 0.0 first version
+version 0.1
 ''')
 credits.pack()
 
