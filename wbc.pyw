@@ -23,31 +23,7 @@ def close():
  exit()
  
 def github():
- webbrowser.open('https://github.com/pykstu/wbc')
- 
-def info():
- today = date.today()
- text = ''' WEB BROWSER CENTER
- date:{0}
- 
- version: 0.0 / first version
- created in 10/27/2022
- 
- wbc it's a project made by a web browser fanatic to group 
- the larger amount of web browsers possible in one single
- place to make it acessible to everyone, also it is open
- source so anyone can edit it and create your own version,
- collaborate, see what is happening with the code etc.
- 
- to suggest some browser or report a bug go to: (in construction).
- 
- note: i am beginner in python and in the overall programming world.
- 
- more in github.'''.format(today)
- 
- file = open('wbc_info.txt', 'x')
- file.write(text)
- file.close()
+ webbrowser.open('https://github.com/atheodog/wbc')
  
 ################## BROWSERS
 
@@ -248,8 +224,6 @@ def kinza():
  
 def sleipnir():
  webbrowser.open('https://www.fenrir-inc.com/jp/sleipnir/')
- 
-###########
 
 def slimjet():
  webbrowser.open('https://www.slimbrowser.net/en/dlpage.php')
@@ -283,7 +257,6 @@ def arora():
 config = Menu(menubar, tearoff=0)
 config.add_command(label = 'exit', command = close)
 config.add_command(label = 'github', command = github)
-config.add_command(label = 'info', command = info)
 
 ################## A
 
