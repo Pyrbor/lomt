@@ -6,7 +6,7 @@ from datetime import date
 
 root = Tk()
 root.title('WBC')
-img = PhotoImage( fil = 'D:\\Pessoal\\Documents\\wbc\\wbc.png')
+img = PhotoImage( fil = 'DIRECTORY\\wbc.png')
 root.geometry('610x80')
 root.iconphoto(False, img)
 menubar = Menu(root)
