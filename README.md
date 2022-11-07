@@ -3,12 +3,11 @@ the web browser center project ( wbc for short ) it's a python program leaded by
 
 note that this isn't a program to choose what browser fits better with you or what browser you like the most, the objective is to group them in the smallest place possible to be very light and compact.
 
-the program is numbered by alphabetical order, but only the first letter, because the browsers in the classifications ( A, B, C, etc... ) are only listed by their first letter, example: "Ab" browser may be below "Ac" browser, for now this isn't a problem but if in the future it become a problem, i will add a search bar.
+the program is numbered by alphanumerical order.
 
 when you click a browser, it will open your main web browser in the official website.
 
 # browser list
-this list is random.
 
 abrowser
 
