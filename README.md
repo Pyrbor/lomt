@@ -10,8 +10,8 @@ when you click a browser, it will open your main web browser in the official web
 # dates
 . created in: 10/27/2022
 
-. first version in: 10/3/2022
+. first version in: 11/3/2022
 
-. last updated: 11/5/2022
+. last updated: 11/8/2022
 
 https://github.com/atheodog/wbc/wiki
