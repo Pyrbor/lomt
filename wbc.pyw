@@ -6,14 +6,14 @@ from datetime import date
 
 root = Tk()
 root.title('WBC')
-img = PhotoImage( fil = 'DIRECTORY\\wbc.png')
+img = PhotoImage( fil = 'D:\\Pessoal\\Documents\\wbc\\wbc.png')
 root.geometry('610x80')
 root.iconphoto(False, img)
 menubar = Menu(root)
 credits = Label(root, text = '''
 Web Browser Center
-11/3/2022
-version 0.1
+11/8/2022
+version 0.2
 ''')
 credits.pack()
 
@@ -251,6 +251,35 @@ def avgbrowser():
 
 def arora():
  webbrowser.open('https://arora.en.softonic.com/download')
+ 
+##################
+ 
+def biscuit():
+ webbrowser.open('https://eatbiscuit.com/')
+ 
+def decentr():
+ webbrowser.open('https://decentr.net/')
+ 
+def sandcat():
+ webbrowser.open('https://www.syhunt.com/sandcat/')
+ 
+def ghostery():
+ webbrowser.open('https://www.ghostery.com/private-browser')
+ 
+def programmerbrowser():
+ webbrowser.open('https://github.com/yessGlory17/programmer-browser')
+ 
+def sielo():
+ webbrowser.open('https://sielo.app/en/index.html')
+ 
+def ccleaner():
+ webbrowser.open('https://www.ccleaner.com/ccleaner/browser')
+ 
+def atom():
+ webbrowser.open('https://browser.ru/#')
+  
+def itop():
+ webbrowser.open('https://www.itopvpn.com/vpn-browser')
 
 ################## CONFIG
 
@@ -264,6 +293,7 @@ abrowsers = Menu(menubar, tearoff=1)
 abrowsers.add_command(label = 'abrowser', command = abrowser)
 abrowsers.add_command(label = 'airbrowse', command = airbrowse)
 abrowsers.add_command(label = 'arora', command = arora)
+abrowsers.add_command(label = 'atom', command = atom)
 abrowsers.add_command(label = 'avg browser', command = avgbrowser)
 abrowsers.add_command(label = 'avant', command = avant)
 abrowsers.add_command(label = 'avast browser', command = avastbrowser)
@@ -274,6 +304,7 @@ bbrowsers = Menu(menubar, tearoff=1)
 bbrowsers.add_command(label = 'baidu', command = baidu)
 bbrowsers.add_command(label = 'basilisk', command = basilisk)
 bbrowsers.add_command(label = 'beaker', command = beaker)
+bbrowsers.add_command(label = 'biscuit', command = biscuit)
 bbrowsers.add_command(label = 'bittube', command = bittube)
 bbrowsers.add_command(label = 'blisk', command = blisk)
 bbrowsers.add_command(label = 'brave', command = brave)
@@ -285,6 +316,7 @@ bbrowsers.add_command(label = 'briskbard', command = briskbard)
 
 cbrowsers = Menu(menubar, tearoff=1)
 cbrowsers.add_command(label = 'cent', command = cent)
+cbrowsers.add_command(label = 'ccleaner', command = ccleaner)
 cbrowsers.add_command(label = 'chedot', command = chedot)
 cbrowsers.add_command(label = 'chrome', command = chrome)
 cbrowsers.add_command(label = 'chrome beta', command = chromebeta)
@@ -301,6 +333,7 @@ cbrowsers.add_command(label = 'cyberfox', command = cyberfox)
 ################## D
 
 dbrowsers = Menu(menubar, tearoff=1)
+dbrowsers.add_command(label = 'decentr', command = decentr)
 dbrowsers.add_command(label = 'dot', command = dot)
 
 ################## E
@@ -322,6 +355,7 @@ fbrowsers.add_command(label = 'firefox nightly', command = firefoxnightly)
 gbrowsers = Menu(menubar, tearoff=1)
 gbrowsers.add_command(label = 'ghost', command = ghost)
 gbrowsers.add_command(label = 'ghostlie', command = ghostlie)
+gbrowsers.add_command(label = 'ghostery', command = ghostery)
 
 ################## H
 
@@ -331,6 +365,7 @@ hbrowsers = Menu(menubar, tearoff=1)
 
 ibrowsers = Menu(menubar, tearoff=1)
 ibrowsers.add_command(label = 'iridium', command = iridium)
+ibrowsers.add_command(label = 'itop browser', command = itop)
 
 ################## J
 
@@ -352,9 +387,9 @@ lbrowsers.add_command(label = 'light firefox', command = lightfirefox)
 
 mbrowsers = Menu(menubar, tearoff=1)
 mbrowsers.add_command(label = 'maxthon', command = maxthon)
-mbrowsers.add_command(label = 'maxthon nitro', command = maxthonnitro)
 mbrowsers.add_command(label = 'maxthon beta', command = maxthonbeta)
-mbrowsers.add_command(label = 'maxthon (CLASSIC/OLD)', command = maxthonclassic)
+mbrowsers.add_command(label = 'maxthon classic', command = maxthonclassic)
+mbrowsers.add_command(label = 'maxthon nitro', command = maxthonnitro)
 mbrowsers.add_command(label = 'midori', command = midori)
 mbrowsers.add_command(label = 'min', command = minbrowser)
 
@@ -377,6 +412,7 @@ obrowsers.add_command(label = 'otter', command = otter)
 
 pbrowsers = Menu(menubar, tearoff=1)
 pbrowsers.add_command(label = 'palemoon', command = palemoon)
+pbrowsers.add_command(label = 'programmer browser', command = programmerbrowser)
 pbrowsers.add_command(label = 'pulse', command = pulse)
 
 ################## Q
@@ -391,8 +427,10 @@ rbrowsers = Menu(menubar, tearoff=1)
 ################## S
 
 sbrowsers = Menu(menubar, tearoff=1)
+sbrowsers.add_command(label = 'sandcat', command = sandcat)
 sbrowsers.add_command(label = 'seamonkey', command = seamonkey)
 sbrowsers.add_command(label = 'sidekick', command = sidekick)
+sbrowsers.add_command(label = 'sielo', command = sielo)
 sbrowsers.add_command(label = 'sleipnir', command = sleipnir)
 sbrowsers.add_command(label = 'slimboat', command = slimboat)
 sbrowsers.add_command(label = 'slimjet', command = slimjet)
