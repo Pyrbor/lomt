@@ -252,8 +252,6 @@ def avgbrowser():
 def arora():
  webbrowser.open('https://arora.en.softonic.com/download')
  
-##################
- 
 def biscuit():
  webbrowser.open('https://eatbiscuit.com/')
  
