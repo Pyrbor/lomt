@@ -5,14 +5,14 @@ from datetime import date
 ################## WINDOW
 
 root = Tk()
-root.title('WBC')
-img = PhotoImage( fil = 'D:\\Pessoal\\Documents\\wbc\\wbc.png')
+root.title('Tvalist')
+img = PhotoImage( fil = 'DIRECTORY\\tvalist.png')
 root.geometry('610x80')
 root.iconphoto(False, img)
 menubar = Menu(root)
 credits = Label(root, text = '''
-Web Browser Center
-11/8/2022
+tvalist
+11/12/2022
 version 0.2
 ''')
 credits.pack()
@@ -23,7 +23,7 @@ def close():
  exit()
  
 def github():
- webbrowser.open('https://github.com/atheodog/wbc')
+ webbrowser.open('https://github.com/atheodog/tvalist')
  
 ################## BROWSERS
 
