@@ -6,7 +6,7 @@ from datetime import date
 
 root = Tk()
 root.title('Tvalist')
-img = PhotoImage( fil = 'DIRECTORY\\tvalist.png')
+img = PhotoImage( fil = 'D:\\Pessoal\\Documents\\tvalist\\tvalist.png')
 root.geometry('610x80')
 root.iconphoto(False, img)
 menubar = Menu(root)
@@ -278,6 +278,9 @@ def atom():
   
 def itop():
  webbrowser.open('https://www.itopvpn.com/vpn-browser')
+ 
+def netscape():
+ webbrowser.open('https://netscape-browser.en.softonic.com/')
 
 ################## CONFIG
 
@@ -394,6 +397,7 @@ mbrowsers.add_command(label = 'min', command = minbrowser)
 ################## N
 
 nbrowsers = Menu(menubar, tearoff=1)
+nbrowsers.add_command(label = 'netscape', command = netscape)
 
 ################## O
 obrowsers = Menu(menubar, tearoff=1)
