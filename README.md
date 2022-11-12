@@ -1,4 +1,4 @@
-# wbc project
+# tvalist collection
 tvalist or the tvalist collection, it's a project by a single developer (me) to create a public massive collection of web browsers.
 the browsers in the program are ordered by alphanumeric order, in dropdowns.
 when you click a browser, it will open your main web browser in the official website.
