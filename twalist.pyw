@@ -5,8 +5,8 @@ from datetime import date
 ################## WINDOW
 
 root = Tk()
-root.title('Tvalist')
-img = PhotoImage( fil = 'D:\\Pessoal\\Documents\\tvalist\\tvalist.png')
+root.title('Twalist')
+img = PhotoImage( fil = 'DIRECOT\\tvalist.png')
 root.geometry('610x80')
 root.iconphoto(False, img)
 menubar = Menu(root)
