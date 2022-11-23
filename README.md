@@ -10,4 +10,4 @@ when you click a browser, it will open your main web browser in the official web
 
 . last updated: 11/12/2022
 
-*https://github.com/atheodog/twalist/wiki*
+*https://github.com/atheodog/nipara/wiki*
