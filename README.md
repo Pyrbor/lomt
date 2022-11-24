@@ -1,7 +1,7 @@
 # the nipara web browser collection
-nipara or the nipara collection, it's a project by a single developer (me) to create a public massive collection of web browsers.
+lomt or the lomt web browser collection, it's a project by a single developer, me, to create a public massive collection of web browsers.
 
-[*see more*](https://github.com/atheodog/nipara/wiki)
+[*see more*](https://github.com/atheodog/lomt/wiki)
 
 # dates
 . created in: 10/27/2022
@@ -10,4 +10,4 @@ nipara or the nipara collection, it's a project by a single developer (me) to cr
 
 . last updated: 11/23/2022
 
-*https://github.com/atheodog/nipara/wiki*
+*https://github.com/atheodog/lomt/wiki*
