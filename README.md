@@ -1,4 +1,4 @@
-# the nipara web browser collection
+# the lomt web browser collection
 lomt or the lomt web browser collection, it's a project by a single developer, me, to create a public massive collection of web browsers.
 
 [*see more*](https://github.com/atheodog/lomt/wiki)
