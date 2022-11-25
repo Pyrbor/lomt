@@ -247,7 +247,7 @@ def ccleaner():
  webbrowser.open('https://www.ccleaner.com/ccleaner/browser')
  
 def atom():
- webbrowser.open('https://browser.ru/#')
+ webbrowser.open('https://browser.ru')
   
 def itop():
  webbrowser.open('https://www.itopvpn.com/vpn-browser')
@@ -263,3 +263,6 @@ def thorium():
  
 def yandexbeta():
  webbrowser.open('https://browser.yandex.com/beta/')
+ 
+def axplorer():
+ webbrowser.open('https://axia.global/axplorer')
