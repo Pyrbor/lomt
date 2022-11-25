@@ -8,6 +8,6 @@ lomt or the lomt web browser collection, it's a project by a single developer, m
 
 . first version in: 11/3/2022
 
-. last updated: 11/23/2022
+. last updated: 11/25/2022
 
 *https://github.com/atheodog/lomt/wiki*
