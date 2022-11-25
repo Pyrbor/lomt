@@ -266,3 +266,9 @@ def yandexbeta():
  
 def axplorer():
  webbrowser.open('https://axia.global/axplorer')
+ 
+def edge():
+ webbrowser.open('https://www.microsoft.com/en-us/edge/')
+ 
+def pennywise():
+ webbrowser.open('https://github.com/kamranahmedse/pennywise')

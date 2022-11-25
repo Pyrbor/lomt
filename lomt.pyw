@@ -82,6 +82,7 @@ dbrowsers.add_command(label = 'dot', command = dot)
 ################## E
 
 ebrowsers = Menu(menubar, tearoff=1)
+ebrowsers.add_command(label = 'edge', command = edge)
 ebrowsers.add_command(label = 'eldy', command = eldy)
 
 ################## F
@@ -156,6 +157,7 @@ obrowsers.add_command(label = 'otter', command = otter)
 
 pbrowsers = Menu(menubar, tearoff=1)
 pbrowsers.add_command(label = 'palemoon', command = palemoon)
+pbrowsers.add_command(label = 'pennywise', command = pennywise)
 pbrowsers.add_command(label = 'programmer browser', command = programmerbrowser)
 pbrowsers.add_command(label = 'pulse', command = pulse)
 
