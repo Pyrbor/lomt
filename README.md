@@ -1,3 +1,7 @@
+## `THIS REPOSITORY IS OPEN ONLY FOR ARCHIVING PURPOSES, LOMT WAS REPLACED BY NAVPEDIA AND IT'S NOT WORKED ON SINCE NOVEMBER 12 OF 2022. AND NAVPEDIA IS NOT FULLY RELEASED YET, THE CURRENT NAVPEDIA VERSION IT'S ALSO ARCHIVED INDEFINETILY.`
+
+---
+
 # the lomt web browser collection
 lomt or the lomt web browser collection, it's a project by a single developer, me, to create a public massive collection of web browsers.
 
